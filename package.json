@@ -22,7 +22,7 @@
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios",
-    "some stuff2",
+    "some stuff3",
     "cordova-browser"
   ],
   "engines": [
