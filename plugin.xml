@@ -77,7 +77,7 @@
   <js-module name="KmlLoader" src="www/KmlLoader.js">
     <runs/>
   </js-module>
-  <js-module name="Environment" src="www/Environment.js">
+  <js-module name="Environment" src="www/EnvironmentNew.js">
     <runs/>
   </js-module>
   <js-module name="MarkerCluster" src="www/MarkerCluster.js">

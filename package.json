@@ -19,6 +19,7 @@
     "maps",
     "geo",
     "nav1",
+    "android",
     "google maps",
     "ecosystem:cordova",
     "cordova-android",
@@ -29,7 +30,7 @@
   "engines": [
     {
       "name": "cordova-android",
-      "version": ">=5.1.0"
+      "version": ">=6.1.0"
     },
     {
       "name": "cordova-ios",
